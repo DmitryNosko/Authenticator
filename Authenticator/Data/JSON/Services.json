@@ -1,0 +1,110 @@
+[
+    {
+        "service_name" : "Default",
+        "serivce_icon_name" : "defaults_icon"
+    },
+    {
+        "service_name" : "Amazon",
+        "serivce_icon_name" : "amazon_icon"
+    },
+    {
+        "service_name" : "Apple",
+        "serivce_icon_name" : "apple_icon"
+    },
+    {
+        "service_name" : "Battle.net",
+        "serivce_icon_name" : "battle.net_icon"
+    },
+    {
+        "service_name" : "Binance",
+        "serivce_icon_name" : "binance_icon"
+    },
+    {
+        "service_name" : "Coin Base",
+        "serivce_icon_name" : "coinbase_icon"
+    },
+    {
+        "service_name" : "Discord",
+        "serivce_icon_name" : "discord_icon"
+    },
+    {
+        "service_name" : "DropBox",
+        "serivce_icon_name" : "dropbox_icon"
+    },
+    {
+        "service_name" : "Github",
+        "serivce_icon_name" : "github_icon"
+    },
+    {
+        "service_name" : "Google",
+        "serivce_icon_name" : "google_icon"
+    },
+    {
+        "service_name" : "Instagram",
+        "serivce_icon_name" : "instagram_icon"
+    },
+    {
+        "service_name" : "Jira",
+        "serivce_icon_name" : "jira_icon"
+    },
+    {
+        "service_name" : "LastPass",
+        "serivce_icon_name" : "lastpass_icon"
+    },
+    {
+        "service_name" : "Linkedin",
+        "serivce_icon_name" : "linkedin_icon"
+    },
+    {
+        "service_name" : "Meta",
+        "serivce_icon_name" : "meta_icon"
+    },
+    {
+        "service_name" : "Microsoft",
+        "serivce_icon_name" : "microsoft_logo"
+    },
+    {
+        "service_name" : "Outlook",
+        "serivce_icon_name" : "outlook_icon"
+    },
+    {
+        "service_name" : "Paypal",
+        "serivce_icon_name" : "paypal_logo"
+    },
+    {
+        "service_name" : "Pinterest",
+        "serivce_icon_name" : "pinterest_logo"
+    },
+    {
+        "service_name" : "Playstation",
+        "serivce_icon_name" : "ps_icon"
+    },
+    {
+        "service_name" : "Reddit",
+        "serivce_icon_name" : "reddit_icon"
+    },
+    {
+        "service_name" : "Slack",
+        "serivce_icon_name" : "slack_icon"
+    },
+    {
+        "service_name" : "Snapchat",
+        "serivce_icon_name" : "snapchat_icon"
+    },
+    {
+        "service_name" : "Talegram",
+        "serivce_icon_name" : "telegram_logo"
+    },
+    {
+        "service_name" : "Tinder",
+        "serivce_icon_name" : "tinder_icon"
+    },
+    {
+        "service_name" : "Twitter / X",
+        "serivce_icon_name" : "twitter_x_icon"
+    },
+    {
+        "service_name" : "Zoom",
+        "serivce_icon_name" : "zoom_icon"
+    }
+]

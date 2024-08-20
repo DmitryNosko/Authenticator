@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "amazon_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
